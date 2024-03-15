@@ -1,9 +1,9 @@
 # test2
 test2
 # Оглавление
-[фукнционал](функционал)
+[фукнционал](#функционал)
 
-[how to install](how-to-install)
+[how to install](#how-to-install)
 
 # функционал
 Смотреть тестики няя
